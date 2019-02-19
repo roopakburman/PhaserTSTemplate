@@ -1,3 +1,3 @@
-#PhaserTSTemplate
+# PhaserTSTemplate
 
-###Phaser + Tyscript + Ionic 4
+### Phaser + Tyscript + Ionic 4
